@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 
-.body-/pagina2.html {
+.body-index {
+    background-image: url(assets/background\ space.jpg);
     background-color: #14f7ff;
     font-family: Arial, sans-serif;
     color: #e51fff;
